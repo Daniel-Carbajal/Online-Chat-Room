@@ -4,8 +4,8 @@ This is a simple personal project I worked on that utilizes Flask and SocketIO i
 # app.py
 
 # templates
-  # base.html
-  # home.html
-  # room.html
+  ## base.html
+  ## home.html
+  ## room.html
 
 # static(CSS Styling)
